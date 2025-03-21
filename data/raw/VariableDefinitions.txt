@@ -1,0 +1,36 @@
+10u - Zonal wind component at 10 meters above the surface (east-west direction)
+10v - Meridional wind component at 10 meters above the surface (north-south direction)
+2d - Dew point temperature at 2 meters above the surface
+2t - Air temperature at 2 meters above the surface
+evabs - Evaporation from bare soil
+evaow - Evaporation from open water
+evatc - Total column evaporation
+evavt - Evapotranspiration (combined evaporation and plant transpiration)
+albedo - Surface albedo (reflectivity of the surface)
+lshf - Latent heat flux (energy transfer due to evaporation and condensation)
+lai_hv - Leaf Area Index for high vegetation
+lai_lv - Leaf Area Index for low vegetation
+pev - Potential evaporation
+ro - Runoff (water that flows over the land surface)
+src - Surface runoff coefficient
+skt - Skin temperature (temperature of the Earth's surface)
+es - Surface evapotranspiration
+stl1 - Soil temperature in the top soil layer
+stl2 - Soil temperature in the second soil layer
+stl3 - Soil temperature in the third soil layer
+stl4 - Soil temperature in the fourth soil layer
+ssro - Sub-surface runoff
+slhf - Surface latent heat flux
+ssr - Surface solar radiation (net shortwave radiation)
+str - Surface thermal radiation (net longwave radiation)
+sp - Surface pressure
+sro - Surface runoff
+sshf - Surface sensible heat flux
+ssrd - Downward surface solar radiation
+strd - Downward surface thermal radiation
+e - Evaporation
+tp - Total precipitation
+swvl1 - Volumetric soil water layer 1 (moisture in the top soil layer)
+swvl2 - Volumetric soil water layer 2 (moisture in the second soil layer)
+swvl3 - Volumetric soil water layer 3 (moisture in the third soil layer)
+swvl4 - Volumetric soil water layer 4 (moisture in the fourth soil layer)
